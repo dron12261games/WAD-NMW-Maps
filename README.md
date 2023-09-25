@@ -1,8 +1,8 @@
 # Nomakh's Mapping Workshop Project Maps
 
-# MAP05 - STATUS: ⛔ABANDONED/FROZEN
+# MAP05 - STATUS: ⛔CANCELLED
 
-# MAP13 - STATUS: ⛔ABANDONED/FROZEN
+# MAP13 - STATUS: ⛔CANCELLED
 
 ## Resources in use:
 - [OTEX_1.1.wad](https://www.doomworld.com/idgames/graphics/otex_1_1)
