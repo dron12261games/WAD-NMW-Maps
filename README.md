@@ -1,8 +1,8 @@
-# Nomakh's Mapping Workshop Project Maps
+# Maps for Nomakh's Mapping Workshop Project
 
-# MAP05 - STATUS: ⛔CANCELLED
-
-# MAP13 - STATUS: ⛔CANCELLED
+## MapList:
+- `MAP05` - ⛔CANCELLED
+- `MAP13` - ⛔CANCELLED
 
 ## Resources in use:
 - [OTEX_1.1.wad](https://www.doomworld.com/idgames/graphics/otex_1_1)
@@ -10,7 +10,7 @@
 - NMW1-RMGResources by RastaManGames (In this Repo)
 - Map05Base (In This Repo)
 
-# Actual Screenshots:
+# Screenshots:
 
 ## MAP05
 ![MAP05 Screen1](./screens/1.png)
@@ -29,7 +29,6 @@
 ![MAP05 Screen14](./screens/14.png)
 
 ## MAP13
-
 ![MAP13 Screen1](./screens/15.png)
 ![MAP13 Screen2](./screens/16.png)
 ![MAP13 Screen3](./screens/17.png)
